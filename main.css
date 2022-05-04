@@ -18,6 +18,15 @@ header{
     font-size: 1rem;
   }
 }
+@media(max-width: 600px) {
+  form {
+    width: 30%;
+    padding-left: 250px;
+
+
+
+  }
+}
 header,form{
   min-height: 20vh;
   display: flex;
